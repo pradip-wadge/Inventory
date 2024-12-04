@@ -3,7 +3,7 @@
 
 An Interactive Inventory Analysis Power BI Dashboard provides dynamic insights into inventory management, enabling businesses to make data-driven decisions. Here's what it offers:
 
-Key Features:1 2
+Key Features:1 2 3
 Real-Time Stock Monitoring:
 
 Track inventory levels for each product in real time.
